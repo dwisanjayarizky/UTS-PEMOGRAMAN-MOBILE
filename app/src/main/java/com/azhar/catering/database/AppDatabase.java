@@ -6,12 +6,8 @@ import androidx.room.RoomDatabase;
 import com.azhar.catering.database.dao.DatabaseDao;
 
 /**
- * Created by Azhar Rivaldi on 14-07-2023
- * Youtube Channel : https://bit.ly/2PJMowZ
- * Github : https://github.com/AzharRivaldi
- * Twitter : https://twitter.com/azharrvldi_
- * Instagram : https://www.instagram.com/azhardvls_
- * LinkedIn : https://www.linkedin.com/in/azhar-rivaldi
+ * Created by Rizki Dwi Sanjaya on 13-12-2023
+ * Github : https://github.com/dwisanjayarizky
  */
 
 //untuk entitas model database
